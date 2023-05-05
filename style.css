@@ -22,6 +22,10 @@ header p{
 main{
     padding: 10px;
 }
+
+figure{
+    padding: 10px;
+}
 .card {
     border:dotted white 5px;
     padding: 10px;
